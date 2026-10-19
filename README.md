@@ -1,2 +1,6 @@
-hi im zak
-If at first, you don't succeed, git reset hard and pretend it never happened.
+### Hi, I'm zak
+
+Focused on networking, systems administration, and backend automation.
+
+* **Languages & Tools:** Python, SQL, Git, Linux
+* **Core Focus:** Network infrastructure and security 
